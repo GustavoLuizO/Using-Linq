@@ -9,7 +9,9 @@ namespace Extract_multiple_elements
         static void Main(string[] args)
         {
             IEnumerable<int> inteiros = new List<int> { 1,2,3,4,5,6,7,8};
-            SkipTake1.GetThirdFourthFifthItems(inteiros);
+            var result = SkipTake1.GetThirdFourthFifthItems(inteiros);
+            foreach (var item in result)
+                Console.WriteLine(item);
         }
 
         public static class SkipTake1
