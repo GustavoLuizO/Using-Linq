@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Background Topics - Lambd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-LINQ Concepts - Query syntax", "2-LINQ Concepts - Query syntax\2-LINQ Concepts - Query syntax.csproj", "{9AA18C91-8B2E-4191-A774-35E3C4039678}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Extract a single element", "3-Extract a single element\3-Extract a single element.csproj", "{2D171921-94F0-483D-BA21-F7D4D60A4BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D171921-94F0-483D-BA21-F7D4D60A4BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D171921-94F0-483D-BA21-F7D4D60A4BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D171921-94F0-483D-BA21-F7D4D60A4BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D171921-94F0-483D-BA21-F7D4D60A4BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
