@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Background Topics - Lambda expressions", "1-Background Topics - Lambda expressions\1-Background Topics - Lambda expressions.csproj", "{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-LINQ Concepts - Query syntax", "2-LINQ Concepts - Query syntax\2-LINQ Concepts - Query syntax.csproj", "{9AA18C91-8B2E-4191-A774-35E3C4039678}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA18C91-8B2E-4191-A774-35E3C4039678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
