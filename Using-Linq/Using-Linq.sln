@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Background Topics - Lambda expressions", "1-Background Topics - Lambda expressions\1-Background Topics - Lambda expressions.csproj", "{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Background Topics - Lambda expressions", "1-Background Topics - Lambda expressions\1-Background Topics - Lambda expressions.csproj", "{BF46A0F5-764B-46C9-B6EA-8A22FDD57CB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-LINQ Concepts - Query syntax", "2-LINQ Concepts - Query syntax\2-LINQ Concepts - Query syntax.csproj", "{9AA18C91-8B2E-4191-A774-35E3C4039678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-LINQ Concepts - Query syntax", "2-LINQ Concepts - Query syntax\2-LINQ Concepts - Query syntax.csproj", "{9AA18C91-8B2E-4191-A774-35E3C4039678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Extract a single element", "3-Extract a single element\3-Extract a single element.csproj", "{2D171921-94F0-483D-BA21-F7D4D60A4BD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Extract a single element", "3-Extract a single element\3-Extract a single element.csproj", "{2D171921-94F0-483D-BA21-F7D4D60A4BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Extract multiple elements", "Extract multiple elements\4-Extract multiple elements.csproj", "{EB303264-B899-4348-9353-2071F464CC26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-Extract multiple elements", "Extract multiple elements\4-Extract multiple elements.csproj", "{EB303264-B899-4348-9353-2071F464CC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-TakeAndSkip(WHILE)", "5-TakeAndSkip(WHILE)\5-TakeAndSkip(WHILE).csproj", "{A587CACB-79AA-4816-AA95-19E63F36EE86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EB303264-B899-4348-9353-2071F464CC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB303264-B899-4348-9353-2071F464CC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB303264-B899-4348-9353-2071F464CC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A587CACB-79AA-4816-AA95-19E63F36EE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A587CACB-79AA-4816-AA95-19E63F36EE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A587CACB-79AA-4816-AA95-19E63F36EE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A587CACB-79AA-4816-AA95-19E63F36EE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
